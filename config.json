@@ -26,213 +26,27 @@
     "a-db-setup": {
       "databases": [
         {
-          "database": "singapore"
-        },
-        {
-          "database": "ulaanbaatar"
-        },
-        {
-          "database": "kinta"
-        },
-        {
-          "database": "delft"
-        },
-        {
-          "database": "amsterdam"
-        },
-        {
-          "database": "zagreb"
-        },
-        {
-          "database": "lugano"
-        },
-        {
-          "database": "barcelona"
-        },
-        {
-          "database": "kyoto"
-        },
-        {
-          "database": "ankara"
-        },
-        {
-          "database": "chennai"
-        },
-        {
-          "database": "quito"
-        },
-        {
-          "database": "san_francisco"
-        },
-        {
-          "database": "nairobi"
-        },
-        {
-          "database": "kampala"
-        },
-        {
-          "database": "melbourne"
-        },
-        {
-          "database": "greater_london"
-        },
-        {
-          "database": "toronto"
-        },
-        {
-          "database": "new_zealand"
-        },
-        {
-          "database": "sao_paulo"
-        },
-        {
-          "database": "switzerland"
-        },
-        {
-          "database": "argentina"
-        },
-        {
-          "database": "medellin"
-        },
-        {
-          "database": "maseru"
-        },
-        {
-          "database": "begawan"
-        },
-        {
-          "database": "beirut"
-        },
-        {
-          "database": "planet"
+          "database": "taiwan"
         }
       ],
       "users": [
         {
-          "new_user": "filip",
-          "password": "xsxsxsxs"
-        },
-        {
-          "new_user": "jupyter",
-          "password": "xyxyxyxy"
+          "new_user": "wufan",
+          "password": "wfwfwf"
         }
       ],
       "superusers": [
         {
-          "new_superuser": "yoongshin",
-          "password": "yyyyyyyyy"
+          "new_superuser": "zongrong",
+          "password": "zrzrzr"
         }
       ]
     },
     "b-osm-rasters-gadm": {
       "osm_source_files": [
         {
-          "database": "singapore",
-          "osm_source_file": "singapore-20211015.osm.pbf"
-        },
-        {
-          "database": "amsterdam",
-          "osm_source_file": "amsterdam-20210803.osm.pbf"
-        },
-        {
-          "database": "ulaanbaatar",
-          "osm_source_file": "ulaanbaatar-20210826.osm.pbf"
-        },
-        {
-          "database": "kinta",
-          "osm_source_file": "kinta-20210825.osm.pbf"
-        },
-        {
-          "database": "zagreb",
-          "osm_source_file": "zagreb-20210825.osm.pbf"
-        },
-        {
-          "database": "lugano",
-          "osm_source_file": "lugano-20210826.osm.pbf"
-        },
-        {
-          "database": "delft",
-          "osm_source_file": "delft-20210825.osm.pbf"
-        },
-        {
-          "database": "barcelona",
-          "osm_source_file": "barcelona-20210803.osm.pbf"
-        },
-        {
-          "database": "kyoto",
-          "osm_source_file": "kyoto-20210803.osm.pbf"
-        },
-        {
-          "database": "ankara",
-          "osm_source_file": "ankara-20210803.osm.pbf"
-        },
-        {
-          "database": "chennai",
-          "osm_source_file": "chennai-20210803.osm.pbf"
-        },
-        {
-          "database": "quito",
-          "osm_source_file": "quito-20210803.osm.pbf"
-        },
-        {
-          "database": "san_francisco",
-          "osm_source_file": "san_francisco-20210308.osm.pbf"
-        },
-        {
-          "database": "nairobi",
-          "osm_source_file": "nairobi-20210803.osm.pbf"
-        },
-        {
-          "database": "kampala",
-          "osm_source_file": "kampala-20210308.osm.pbf"
-        },
-        {
-          "database": "melbourne",
-          "osm_source_file": "melbourne-20210308.osm.pbf"
-        },
-        {
-          "database": "greater_london",
-          "osm_source_file": "greater_london-20210308.osm.pbf"
-        },
-        {
-          "database": "toronto",
-          "osm_source_file": "toronto-20210803.osm.pbf"
-        },
-        {
-          "database": "new_zealand",
-          "osm_source_file": "new-zealand-20210803.osm.pbf"
-        },
-        {
-          "database": "sao_paulo",
-          "osm_source_file": "sao-paulo-20210308.osm.pbf"
-        },
-        {
-          "database": "switzerland",
-          "osm_source_file": "switzerland-20210803.osm.pbf"
-        },
-        {
-          "database": "argentina",
-          "osm_source_file": "argentina-20210803.osm.pbf"
-        },
-        {
-          "database": "medellin",
-          "osm_source_file": "medellin-20211017.osm.pbf"
-        },
-        {
-          "database": "maseru",
-          "osm_source_file": "mesaru-20211017.osm.pbf"
-        },
-        {
-          "database": "begawan",
-          "osm_source_file": "begawan-20211017.osm.pbf"
-        },
-        {
-          "database": "beirut",
-          "osm_source_file": "beirut-20211017.osm.pbf"
-        },
-        {
-          "database": "planet",
-          "osm_source_file": "planet-20210927.osm.pbf"
+          "database": "taiwan",
+          "osm_source_file": "taiwan-latest.osm.pbf"
         }
       ],
       "raster_names": [
@@ -295,85 +109,7 @@
     "c0-misc": {
       "databases": [
         {
-          "database": "singapore"
-        },
-        {
-          "database": "ulaanbaatar"
-        },
-        {
-          "database": "kinta"
-        },
-        {
-          "database": "delft"
-        },
-        {
-          "database": "amsterdam"
-        },
-        {
-          "database": "zagreb"
-        },
-        {
-          "database": "lugano"
-        },
-        {
-          "database": "barcelona"
-        },
-        {
-          "database": "kyoto"
-        },
-        {
-          "database": "ankara"
-        },
-        {
-          "database": "chennai"
-        },
-        {
-          "database": "quito"
-        },
-        {
-          "database": "san_francisco"
-        },
-        {
-          "database": "nairobi"
-        },
-        {
-          "database": "kampala"
-        },
-        {
-          "database": "melbourne"
-        },
-        {
-          "database": "greater_london"
-        },
-        {
-          "database": "toronto"
-        },
-        {
-          "database": "new_zealand"
-        },
-        {
-          "database": "sao_paulo"
-        },
-        {
-          "database": "switzerland"
-        },
-        {
-          "database": "argentina"
-        },
-        {
-          "database": "medellin"
-        },
-        {
-          "database": "maseru"
-        },
-        {
-          "database": "begawan"
-        },
-        {
-          "database": "beirut"
-        },
-        {
-          "database": "planet"
+          "database": "taiwan"
         }
       ],
       "raster_names": [
@@ -446,85 +182,7 @@
     "c1-gbmi": {
       "databases": [
         {
-          "database": "singapore"
-        },
-        {
-          "database": "ulaanbaatar"
-        },
-        {
-          "database": "kinta"
-        },
-        {
-          "database": "delft"
-        },
-        {
-          "database": "amsterdam"
-        },
-        {
-          "database": "zagreb"
-        },
-        {
-          "database": "lugano"
-        },
-        {
-          "database": "barcelona"
-        },
-        {
-          "database": "kyoto"
-        },
-        {
-          "database": "ankara"
-        },
-        {
-          "database": "chennai"
-        },
-        {
-          "database": "quito"
-        },
-        {
-          "database": "san_francisco"
-        },
-        {
-          "database": "nairobi"
-        },
-        {
-          "database": "kampala"
-        },
-        {
-          "database": "melbourne"
-        },
-        {
-          "database": "greater_london"
-        },
-        {
-          "database": "toronto"
-        },
-        {
-          "database": "new_zealand"
-        },
-        {
-          "database": "sao_paulo"
-        },
-        {
-          "database": "switzerland"
-        },
-        {
-          "database": "argentina"
-        },
-        {
-          "database": "medellin"
-        },
-        {
-          "database": "maseru"
-        },
-        {
-          "database": "begawan"
-        },
-        {
-          "database": "beirut"
-        },
-        {
-          "database": "planet"
+          "database": "taiwan"
         }
       ],
       "raster_names": [
@@ -611,85 +269,7 @@
     "d-export": {
       "databases": [
         {
-          "database": "singapore"
-        },
-        {
-          "database": "ulaanbaatar"
-        },
-        {
-          "database": "kinta"
-        },
-        {
-          "database": "delft"
-        },
-        {
-          "database": "amsterdam"
-        },
-        {
-          "database": "zagreb"
-        },
-        {
-          "database": "lugano"
-        },
-        {
-          "database": "barcelona"
-        },
-        {
-          "database": "kyoto"
-        },
-        {
-          "database": "ankara"
-        },
-        {
-          "database": "chennai"
-        },
-        {
-          "database": "quito"
-        },
-        {
-          "database": "san_francisco"
-        },
-        {
-          "database": "nairobi"
-        },
-        {
-          "database": "kampala"
-        },
-        {
-          "database": "melbourne"
-        },
-        {
-          "database": "greater_london"
-        },
-        {
-          "database": "toronto"
-        },
-        {
-          "database": "new_zealand"
-        },
-        {
-          "database": "sao_paulo"
-        },
-        {
-          "database": "switzerland"
-        },
-        {
-          "database": "argentina"
-        },
-        {
-          "database": "medellin"
-        },
-        {
-          "database": "maseru"
-        },
-        {
-          "database": "begawan"
-        },
-        {
-          "database": "beirut"
-        },
-        {
-          "database": "planet"
+          "database": "taiwan"
         }
       ],
       "raster_names": [
